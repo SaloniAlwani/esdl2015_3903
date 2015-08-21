@@ -1,5 +1,6 @@
 meetings
-reminders
 birthdays
 anniversarys
 parties
+vacations
+weekend plans
