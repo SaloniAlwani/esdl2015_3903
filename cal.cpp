@@ -1,0 +1,5 @@
+meetings
+reminders
+birthdays
+anniversarys
+parties
