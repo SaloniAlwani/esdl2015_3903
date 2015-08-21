@@ -2,5 +2,6 @@ meetings
 birthdays
 anniversarys
 parties
-vacations
 weekend plans
+outing
+schedule
